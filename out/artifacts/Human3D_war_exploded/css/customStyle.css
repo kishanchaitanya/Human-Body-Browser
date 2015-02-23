@@ -1,0 +1,52 @@
+html{
+overflow-y: scroll; 
+}
+.navbar-inverse {
+background-color: black;
+border-color: black;
+}
+
+
+.footerColor{
+    background-color: black;
+    color: white;
+    padding-top: 13px;    
+    padding-bottom: 13px;
+    text-align: center;
+}
+a{
+	cursor:pointer;
+}
+p{
+	font-size:150%;
+}
+.term-list-styles-allcaps{
+display : none !important;
+}
+.highlight-data-href{
+display : none !important;
+}
+.data-href .highlight-data-href .data-href2-even{
+	display : none !important;
+}
+.activeColor{
+    color: blue;
+}
+.moveTop{
+	margin-top:-90px;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: white;
+}
+a{
+	font-size: 150%;
+	height:40px !important;
+}
+div.systems-tab-content{
+	width: 0%;
+	margin-left: 181px;
+}
+
+.systems-tabs-container ul.systems-tabs li a{
+	background:none !important;
+}
